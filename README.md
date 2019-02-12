@@ -1,9 +1,10 @@
 # sonify
 Modules adding up to various mode of data sonification.
-Copyright 2018 Sharath Chandra Ram 
-Twitter: (@AgentSpock)
+Copyright 2018 Sharath Chandra Ram (Licensed under the Apache License, Version 2.0)
+Twitter:(@AgentSpock)
+   
    Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
+   You may not use this file except in compliance with the License.
    You may obtain a copy of the License at
 
        http://www.apache.org/licenses/LICENSE-2.0
