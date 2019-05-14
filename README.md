@@ -1,5 +1,16 @@
 # sonify
-Modules adding up to various mode of data sonification.
+Modules adding up to various modes of data sonification.
+ Dependencies :
+ 
+ Install Csound from Source
+ https://github.com/csound/csound  
+ The idea is to have CsoundLib64 correctly installed, and to enable your python3 kernel 
+ to have access to ctcsound.py that is included with the Csound build.
+ 
+Alteratively install a desktop version of csound https://csound.com/download.html, that cointains the installation of the required libraries needed to run these notebooks.
+
+Various common python libraries avaialble on pip or conda-forge required as prompted.
+ 
  (Licensed under the Apache License, Version 2.0)
  Copyright 2018 
  Sharath Chandra Ram Twitter:(@AgentSpock)
