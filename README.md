@@ -14,7 +14,9 @@ Various common python libraries avaialble on pip or conda-forge required as prom
  (Licensed under the Apache License, Version 2.0)
  Copyright 2018 
  Sharath Chandra Ram Twitter:(@AgentSpock)
- Scot-Gresham Lancaster (@scotgl)
+ 
+ PhD researcher at The University of Texas at Dallas,
+School of Arts Technology and Emerging Communication
 
    
    Licensed under the Apache License, Version 2.0 (the "License");
